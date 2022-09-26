@@ -1,7 +1,7 @@
 Fast analytic solver for the intersection of two ellipses of arbitrary rotation in Python
 
 TODO:
-- Currently this _only_ works if the ellipses are intersecting. I need to write checks.
+- Currently this _only_ works if the ellipses are intersecting at four points. I need to write checks.
 - If the ellipses have the same rotation then the output is not proper.
 
 ## Usage
