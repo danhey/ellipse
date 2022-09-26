@@ -8,4 +8,4 @@ el2 = Ellipse(5,10,0)
 x, y = intersection(el1, el2)
 ```
 
-![example][/docs/imagesexample.png]
+![example][docs/imagesexample.png]
