@@ -1,3 +1,4 @@
+:warning: IN DEV. DO NOT USE.
 Fast analytic solver for the intersection of two ellipses of arbitrary rotation in Python
 
 TODO:
